@@ -1,4 +1,4 @@
-package com.algos;
+package com.algos.trees;
 
 public class BSToGst {
   public class TreeNode {
