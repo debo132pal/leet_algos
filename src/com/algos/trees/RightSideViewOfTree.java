@@ -1,4 +1,4 @@
-package com.algos;
+package com.algos.trees;
 
 import sun.reflect.generics.tree.Tree;
 
