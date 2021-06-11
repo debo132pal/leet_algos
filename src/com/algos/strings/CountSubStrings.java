@@ -1,4 +1,4 @@
-package com.algos;
+package com.algos.strings;
 
 public class CountSubStrings {
     public int countSubstrings(String s) {
